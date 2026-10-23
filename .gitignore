@@ -1,5 +1,5 @@
 **/build/
 *.log
-*.pdf
+.pdf
 *.synctex.gz
 *.aux

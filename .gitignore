@@ -1,0 +1,5 @@
+**/build/
+*.log
+*.pdf
+*.synctex.gz
+*.aux

@@ -30,7 +30,7 @@ Pastikan sistem Anda memiliki distribusi LaTeX (TeX Live, MiKTeX, atau MacTeX). 
     url    = {https://contoh.com}
   }
   ```
-- Panggil sitasi di teks dengan perintah `\cite{sumber1}`.
+- Panggil sitasi di teks dengan perintah `\cite{namaSumber}` atau `\parencite{namaSumber}`.
 
 ### 4. Menambahkan Gambar
 - Simpan gambar ke folder `images/`.
